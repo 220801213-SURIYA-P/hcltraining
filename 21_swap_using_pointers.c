@@ -15,3 +15,4 @@ int main() {
     return 0;
 }
 
+//this is the program for the swap of two numbers using pointers in C. The function swap takes two integer pointers as arguments, swaps the values they point to, and the main function demonstrates how to use this swap function by taking user input and displaying the swapped values.
