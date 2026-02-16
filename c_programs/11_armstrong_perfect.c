@@ -1,4 +1,4 @@
-// Program 11: Armstrong and Perfect number check using functions
+
 #include <stdio.h>
 #include <math.h>
 int is_armstrong(int n) {
