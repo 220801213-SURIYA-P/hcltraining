@@ -1,4 +1,4 @@
-// Program 4: Leap year using only conditional operators
+
 #include <stdio.h>
 int main() {
     int year;

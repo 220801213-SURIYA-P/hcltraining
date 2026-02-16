@@ -1,4 +1,4 @@
-// Program 3: Celsius to Fahrenheit
+
 #include <stdio.h>
 int main() {
     float c, f;
