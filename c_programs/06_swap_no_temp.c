@@ -1,4 +1,4 @@
-// Program 6: Swap two integers without a temporary variable
+
 #include <stdio.h>
 int main() {
     int a, b;
