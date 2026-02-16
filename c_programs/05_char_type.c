@@ -1,4 +1,4 @@
-// Program 5: Character type
+
 #include <stdio.h>
 #include <ctype.h>
 int main() {

@@ -1,4 +1,4 @@
-// Program 2: Read two integers and print sum, difference, product, quotient
+
 #include <stdio.h>
 int main() {
     int a, b;

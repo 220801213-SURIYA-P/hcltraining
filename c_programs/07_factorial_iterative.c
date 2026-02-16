@@ -1,4 +1,4 @@
-// Program 7: Iterative factorial
+
 #include <stdio.h>
 int main() {
     int n;
