@@ -1,4 +1,3 @@
-// Program 15: Convert lowercase string to uppercase (no toupper)
 #include <stdio.h>
 int main() {
     char str[1000];
