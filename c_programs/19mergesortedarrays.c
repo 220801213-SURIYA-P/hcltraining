@@ -1,4 +1,3 @@
-// Program 19: Merge two sorted arrays
 #include <stdio.h>
 int main() {
     int n1, n2, a[100], b[100], c[200], i = 0, j = 0, k = 0;
