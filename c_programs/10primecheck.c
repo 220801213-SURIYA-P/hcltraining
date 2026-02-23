@@ -1,4 +1,3 @@
-// Program 10: Check if a number is prime (optimized)
 #include <stdio.h>
 #include <math.h>
 int main() {
