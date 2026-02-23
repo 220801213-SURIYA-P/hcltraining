@@ -1,4 +1,3 @@
-// Program 14: Check if string is palindrome (ignore case, non-alphanumeric)
 #include <stdio.h>
 #include <ctype.h>
 int main() {
