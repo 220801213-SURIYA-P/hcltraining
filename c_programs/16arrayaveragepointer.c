@@ -1,4 +1,3 @@
-// Program 16: Average of array using pointer arithmetic
 #include <stdio.h>
 int main() {
     int n, arr[100];
