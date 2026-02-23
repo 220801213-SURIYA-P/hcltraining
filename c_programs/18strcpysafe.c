@@ -1,4 +1,3 @@
-// Program 18: Safe strcpy (bounded copy) and buffer overflow discussion
 #include <stdio.h>
 void strcpy_safe(char *dest, const char *src, size_t n) {
     size_t i;
@@ -12,6 +11,5 @@ int main() {
     fgets(src, sizeof(src), stdin);
     strcpy_safe(dest, src, sizeof(dest));
     printf("Copied (max 9 chars): %s\n", dest);
-    // Buffer overflow risk: if n is not checked, dest may overflow
     return 0;
 }
