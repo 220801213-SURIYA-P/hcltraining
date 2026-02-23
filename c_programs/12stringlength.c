@@ -1,4 +1,3 @@
-// Program 12: Read string with spaces and print length (no strlen)
 #include <stdio.h>
 int main() {
     char str[1000];
