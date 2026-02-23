@@ -1,4 +1,3 @@
-// Program 13: Remove all occurrences of a character from string in-place
 #include <stdio.h>
 int main() {
     char str[1000], ch;
