@@ -1,4 +1,3 @@
-// Program 9: Reverse integer and discuss overflow
 #include <stdio.h>
 #include <limits.h>
 int main() {
