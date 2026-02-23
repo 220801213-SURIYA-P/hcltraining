@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 typedef int (*arith_fn)(int, int);
 int add(int a, int b) { return a + b; }
