@@ -1,4 +1,3 @@
-// Program 17: Naive substring search (first occurrence)
 #include <stdio.h>
 int substring_index(const char *str, const char *sub) {
     int i, j;
