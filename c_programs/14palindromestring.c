@@ -5,7 +5,6 @@ int main() {
     int i = 0, j = 0, len;
     printf("Enter a string: ");
     fgets(str, sizeof(str), stdin);
-    // Clean string: keep only alphanumeric, lowercased
     while (str[i]) {
         if (isalnum(str[i]))
             clean[j++] = tolower(str[i]);
