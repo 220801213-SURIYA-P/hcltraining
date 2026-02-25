@@ -13,7 +13,6 @@ int main() {
     fgets(str, sizeof(str), stdin);
     printf("Enter substring: ");
     fgets(sub, sizeof(sub), stdin);
-    // Remove trailing newlines
     for (int i = 0; str[i]; ++i) if (str[i] == '\n') str[i] = 0;
     for (int i = 0; sub[i]; ++i) if (sub[i] == '\n') sub[i] = 0;
     int idx = substring_index(str, sub);
